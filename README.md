@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+======================================================================================================================================
+# Ai Monitoring
+======================================================================================================================================
 
-You can use the [editor on GitHub](https://github.com/alieninn3d/AI-Monitoring/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## This project serves two purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first being learn and document the practices required in Microsoft Azure, Microsoft Azure DevOps, and Microsoft Azure Artificial Intelligence as the project progresses.
 
-### Markdown
+The second purpose is to develop and publish the Alien Inn Pty Ltd’s artificial intelligence monitoring platform that will be used to monitor ongoing WWW.AI2D.AI projects planned for the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Restrictions
 
-```markdown
-Syntax highlighted code block
+1.	The project is to utilise SquaredUp Community Edition as the monitoring solution
+2.	The solution is to utilise four (4) Microsoft Server 2019 or later based IIS servers as a clustered platform.
+3.	A dedicated shared disk will be utilised.
+4.	A Ubuntu server will be deployed under the same Azure resource group with Time Server set as Stratum Two.
+
+======================================================================================================================================
+## Document Standards
 
 # Header 1
 ## Header 2
@@ -24,23 +31,47 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alieninn3d/AI-Monitoring/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+======================================================================================================================================
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Google is your friend
+- There is much to learn
+======================================================================================================================================
+======================================================================================================================================
 
-==================================================================================================
+
+======================================================================================================================================
+PROJECT BUILD PROCESS NOTES
+======================================================================================================================================
+
+1. Create a Microsoft Account to use with Azure, Azsure DevOps, and Azure AI
+2. Setup your Windows 10 Development system
+2.1 Microsoft Visual Studio (version)
+2.2 Microsoft Azure CLI
+2.3 Microsoft Code
+
+
+======================================================================================================================================
+REFERENCES
+======================================================================================================================================
+
+
+
+
+======================================================================================================================================
+PROJECT PROGRESS NOTES
+======================================================================================================================================
+
+
+
+
+
 
 and now Visual Studio 2019 is syncronised with GitHub repositories
 
-==================================================================================================
+======================================================================================================================================
+
 EDIT 22/10/2021:
 Gathering notes and decyphering Microsoft Tutorials
 
