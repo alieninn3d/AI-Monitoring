@@ -1,7 +1,4 @@
-============================================================================
 # Ai Monitoring
-============================================================================
-
 ## This project serves two purposes.
 
 The first being learn and document the practices required in Microsoft Azure, Microsoft Azure DevOps, and Microsoft Azure Artificial Intelligence as the project progresses.
@@ -19,7 +16,6 @@ The second purpose is to develop and publish the Alien Inn Pty Ltd’s artificia
 
 Project is "done" when the solution publishes server performance data to the SquredUp interface and is visible at www.monitoring.alien-inn.com.au 
 
-============================================================================
 ## Document Standards
 
 # Header 1
@@ -33,44 +29,30 @@ Project is "done" when the solution publishes server performance data to the Squ
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 
-============================================================================
 ### Support or Contact
 
 - Google is your friend
 - There is much to learn
-============================================================================
+
 # SECTION
-============================================================================
 
 
-============================================================================
-PROJECT BUILD PROCESS NOTES
-============================================================================
-
+# PROJECT BUILD PROCESS NOTES
 1. Create a Microsoft Account to use with Azure, Azsure DevOps, and Azure AI
 2. Setup your Windows 10 Development system
 2.1 Microsoft Visual Studio (version)
 2.2 Microsoft Azure CLI
 2.3 Microsoft Code
 
-
-============================================================================
-REFERENCES
-============================================================================
+# REFERENCES
 
 
 
 
-============================================================================
-PROJECT PROGRESS NOTES
-============================================================================
 
-
-
-
+# PROJECT PROGRESS NOTES
 
 
 and now Visual Studio 2019 is syncronised with GitHub repositories
