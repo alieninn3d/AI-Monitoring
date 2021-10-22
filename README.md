@@ -12,9 +12,9 @@ The second purpose is to develop and publish the Alien Inn Pty Ltd’s artificia
 3.	A dedicated shared disk will be utilised.
 4.	A Ubuntu server will be deployed under the same Azure resource group with Time Server set as Stratum Two.
 
-## Project DONE-DONE
+## Project Definition of DONE-DONE
 
-Project is "done" when the solution publishes server performance data to the SquredUp interface and is visible at www.monitoring.alien-inn.com.au 
+Project is "done" when the solution publishes server performance data to the SquredUp interface and is visible at http://monitoring.alien-inn.com.au/
 
 ## Document Standards
 
